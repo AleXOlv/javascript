@@ -84,6 +84,6 @@
         return mensagem;
     
     }
-console.log(microondas('Macarrao', 7));
+console.log(microondas('Macarrao', ));
 console.log("Prato pronto, bom apetite");
 
